@@ -1,5 +1,6 @@
 # sms_spam_detection
-dataset used: https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
+#dataset used: 
+https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
 
 The problem statement here is a classification problem
 
