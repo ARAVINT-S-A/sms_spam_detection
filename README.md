@@ -48,3 +48,5 @@ first we view the data and see its dimensions no of features ,null values etc.
 21.once model is trained we predict for x test and compare ypred and ytest to find test accuracy
 
 22.precision is also important so we take a note of precision and accuracy.
+
+we deploy our model using streamlit
